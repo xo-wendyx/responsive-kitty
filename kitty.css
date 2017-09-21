@@ -6,21 +6,21 @@ body {
 
 @media screen and (min-width: 1080px) {
   .kitty1 {
-      content:url(images/kitten-large.png);
+      content:url(kitten-large.png);
   }
   	
 
 @media screen and (min-width: 820px) {
   .kitty1 {
-      content:url(images/kitten-medium.png);
+      content:url(kitten-medium.png);
   }
   
   @media screen and (max-width: 600px) {
   .kitty1 {
-      content:url(images/kitten-small.png);
+      content:url(kitten-small.png);
   }
   
   @media screen and (max-width: 600px) {
   .ogkitty {
-      content:url(images/kittyloaf.gif);
+      content:url(kittyloaf.gif);
   }
