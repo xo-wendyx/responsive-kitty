@@ -1,22 +1,22 @@
 
 
 @media screen and (max-width:500px) {
- img {
+ .loaf {
       content:url(kittyloaf.gif);
   }
   	
 
 @media screen and (min-width: 800px) {
-  img {
+  .kitty {
       content:url(kitten-small.png);
   }
   
   @media screen and (min-width:1020px) {
-  img {
+  .kitty {
       content:url(kitten-medium.png);
   }
   
   @media screen and (max-width: 1380px) {
-  img {
+  .kitty {
       content:url(kitty-large.png);
   }
