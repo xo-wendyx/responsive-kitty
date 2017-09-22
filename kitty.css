@@ -1,26 +1,22 @@
 
-body { 
-	text-align: center; 
-	} 
-	
 
-@media screen and (max-width: 1380px) {
-  .kitty1 {
-      content:url(kitten-large.png);
+@media screen and (max-width:500px) {
+ img {
+      content:url(kittyloaf.gif);
   }
   	
 
-@media screen and (min-width: 1020px) {
-  .kitty1 {
-      content:url(kitten-medium.png);
-  }
-  
-  @media screen and (min-width: 800px) {
-  .kitty1 {
+@media screen and (min-width: 800px) {
+  img {
       content:url(kitten-small.png);
   }
   
-  @media screen and (min-width: 800px) {
-  .ogkitty {
-      content:url(kittyloaf.gif);
+  @media screen and (min-width:1020px) {
+  img {
+      content:url(kitten-medium.png);
+  }
+  
+  @media screen and (min-width: 1380px) {
+  img {
+      content:url(kitty-large.png);
   }
