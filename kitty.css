@@ -16,7 +16,7 @@
       content:url(kitten-medium.png);
   }
   
-  @media screen and (min-width: 1380px) {
+  @media screen and (max-width: 1380px) {
   img {
       content:url(kitty-large.png);
   }
