@@ -4,23 +4,23 @@ body {
 	} 
 	
 
-@media screen and (max-width: 1080px) {
+@media screen and (max-width: 1380px) {
   .kitty1 {
       content:url(kitten-large.png);
   }
   	
 
-@media screen and (min-width: 820px) {
+@media screen and (min-width: 1020px) {
   .kitty1 {
       content:url(kitten-medium.png);
   }
   
-  @media screen and (min-width: 600px) {
+  @media screen and (min-width: 800px) {
   .kitty1 {
       content:url(kitten-small.png);
   }
   
-  @media screen and (min-width: 600px) {
+  @media screen and (min-width: 800px) {
   .ogkitty {
       content:url(kittyloaf.gif);
   }
