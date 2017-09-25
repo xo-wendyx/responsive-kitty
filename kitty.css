@@ -1,6 +1,6 @@
 
 
-@media screen and (max-width:500px) {
+@media screen and (max-width: 500px) {
  .loaf {
       content:url(kittyloaf.gif);
   }
@@ -11,7 +11,7 @@
       content:url(kitten-small.png);
   }
   
-  @media screen and (min-width:1020px) {
+  @media screen and (min-width: 1020px) {
   .kitty {
       content:url(kitten-medium.png);
   }
