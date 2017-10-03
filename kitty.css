@@ -22,5 +22,13 @@ body{
 
 @media screen and (max-width:999px){
   .kitty{
-    content:url("kittyloaf.gif
+    content:url("kittyloaf.gif");
+ }
+}
+
+@media screen and (max-width: 700px){
+  .loaf{
+    content:url("kitten-small.png");
+ }
+} 
      
