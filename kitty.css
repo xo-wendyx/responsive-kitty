@@ -1,23 +1,26 @@
-
-
-@media screen and (min-width: 500px) {
- .loaf {
-      content:url(kittyloaf.gif);
-  }
+body{ 
+ text-align:center;
 }
 
-@media screen and (min-width: 800px) {
-  .kitty {
-      content:url(kitten-small.png);
-  }
+@media screen and (min-width: 1000px){ 
+  .kitty{
+    content:url("images/kitten-small.png");
+ }
 }
-  @media screen and (min-width: 1020px) {
-  .kitty {
-      content:url(kitten-medium.png);
-  }
+
+@media screen and (min-width: 1200px){
+  .kitty{
+    content:url("kitten-medium.png");
+ }
 }
-  @media screen and (max-width: 1380px) {
-  .kitty {
-      content:url(kitty-large.png);
-  }
+
+@media screen and (min-width: 1400px){
+  .kitty{
+    content:url("kitten-large.png");
+ }
 }
+
+@media screen and (max-width:999px){
+  .kitty{
+    content:url("kittyloaf.gif
+     
