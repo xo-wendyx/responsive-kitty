@@ -1,11 +1,15 @@
 body{ 
- text-align:center;
+ 	text-align:center;
 }
 
 .loaf {
 	text-align: center;
 	visibility: hidden;
 }
+
+@media screen and (min-width: 1081px) {
+	kitty{ 
+		content:url(kitty
 
 
 
