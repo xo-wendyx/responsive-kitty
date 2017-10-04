@@ -7,9 +7,21 @@ body{
 	visibility: hidden;
 }
 
-@media screen and (min-width: 1081px) {
+@media screen and (min-width: 1081px){
 	kitty{ 
 		content:url(kityy-large.png);
+	}
+}
+
+@media screen and (max-width: 1080px){ 
+	kitty{ 
+		content:url(kitty-medium.png);
+	}
+}
+
+@media screen and (max-width: 820px){
+	kitty{
+		content:url(kitty-small.png);
 	}
 }
 
