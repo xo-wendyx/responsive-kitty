@@ -4,7 +4,7 @@ body{
 
 @media screen and (min-width: 1000px){ 
   .kitty{
-    content:url("images/kitten-small.png");
+    content:url("kitten-small.png");
  }
 }
 
