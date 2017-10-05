@@ -8,25 +8,25 @@ body{
 }
 
 @media screen and (min-width: 1081px){
-	.kitty{ 
+	img{ 
 		content:url(kitten-large.png);
 	}
 }
 
 @media screen and (max-width: 1080px){ 
-	.kitty{ 
+	img{ 
 		content:url(kitten-medium.png);
 	}
 }
 
 @media screen and (max-width: 820px){
-	.kitty{
+	img{
 		content:url(kitten-small.png);
 	}
 }
 
 @media screen and (max-width: 600px) {
-	.kitty{
+	img{
 		content:url(kittyloaf.gif);
 	}
 }
