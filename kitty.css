@@ -32,10 +32,10 @@ body{
 }
 
 @media screen and (max-width: 600px) {
-	.kitty {
+	.loaf {
 		visibility: visible;
 	}
-	.loaf { 
+	.kitty { 
 		text-align: center;
 		content:url(kitten-small.png);
 	}
