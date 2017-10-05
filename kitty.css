@@ -11,11 +11,17 @@ body{
 	img{ 
 		content:url(kitten-large.png);
 	}
+	body{ 
+		background-image:url("thats70show.gif");
+	}
 }
 
 @media screen and (max-width: 1080px){ 
 	img{ 
 		content:url(kitten-medium.png);
+	}
+	body{
+		background-image:url("rose.gif");
 	}
 }
 
@@ -23,11 +29,17 @@ body{
 	img{
 		content:url(kitten-small.png);
 	}
+	body{
+		background-image:url("mtv.gif");
+	}
 }
 
 @media screen and (max-width: 600px) {
 	img{
 		content:url(kittyloaf.gif);
+	}
+	body{
+		background-image:url("tina.gif");
 	}
 }
 
