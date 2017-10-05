@@ -27,7 +27,19 @@ body{
 
 @media screen and (max-width: 600px) {
 	.kitty{
-		content:url(kitty
+		content:url(kittyloaf.gif);
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.kitty {
+		visibility: visible;
+	}
+	.loaf { 
+		text-align: center;
+		content:url(kitten-small.png);
+	}
+}
 
 
 
